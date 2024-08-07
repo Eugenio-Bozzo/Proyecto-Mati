@@ -1,0 +1,57 @@
+body {
+    background-image: url("/image/photo-1612008307275-07849bc2ead8.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+
+    .container {
+        width: 100%;
+    }
+
+
+    h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    margin-bottom: -20px;
+    margin-top: 250px;
+    color: yellow
+    }
+
+
+    h2 {
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+    a{
+        color: black;
+        text-decoration: none;
+      }
+    a:hover{
+        color: yellow;
+      }
+    a:active{
+        color: yellow;
+      }
+     
+
+
+    button {
+    width: 300px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    background-color: yellow;
+    border-color: yellow;
+    border-radius: 10px;
+    font-size: 25px;
+    margin-top: 400px;
+    }
+
+    button:hover{
+      color: black;
+    }
